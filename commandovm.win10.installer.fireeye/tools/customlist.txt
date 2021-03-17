@@ -1,0 +1,15 @@
+https://github.com/gentilkiwi/kekeo/releases/download/2.2.0-20200718/kekeo.zip
+https://github.com/securesocketfunneling/ssf/releases/download/3.0.0/ssf-win-x86_64-3.0.0.zip
+https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps1
+https://github.com/itm4n/PrintSpoofer/releases/download/v1.0/PrintSpoofer64.exe
+https://raw.githubusercontent.com/BornToBeRoot/PowerShell_IPv4PortScanner/master/Scripts/IPv4PortScan.ps1
+https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/credentials/Invoke-DCSync.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/Invoke-Portscan.ps1
+https://raw.githubusercontent.com/samratashok/nishang/master/Shells/Invoke-PowerShellTcp.ps1
+https://github.com/edemilliere/ADSI/blob/master/Invoke-ADSDPropagation.ps1
+https://raw.githubusercontent.com/p3nt4/Invoke-SocksProxy/master/Invoke-SocksProxy.psm1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Invoke-TokenManipulation.ps1
+https://raw.githubusercontent.com/nettitude/PoshC2_Old/master/Modules/Set-LHSTokenPrivilege.ps1
+https://raw.githubusercontent.com/phackt/pentest/master/bypass/amsi-bypass.ps1
+https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/AzureHound.ps1
+https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.ps1
